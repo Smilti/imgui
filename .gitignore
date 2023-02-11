@@ -60,3 +60,5 @@ examples/example_sdl2_opengl3/example_sdl2_opengl3
 examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
 
 Makefile
+bin
+bin-int
